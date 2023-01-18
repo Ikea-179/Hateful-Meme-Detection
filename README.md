@@ -14,7 +14,7 @@ In today’s social media, however, text is not the only format for voicing idea
 
 Unlike simple hate speech which could be detected with some certain Natural Language Processing methodologies, hate memes are hard to be captured. For example, both the image and the speech might be innocuous when we view them individually. However, if we combine them together, they could mean something ironic and thus harmful. For example, if we gave a speech “Look how many people love you” and an image of a dessert, neither of them seems to be harmful. However, if we combine them together, this could be sarcasm indicating that there are no people loving you at all, which is quite offensive.
 
-![](img/Example Hateful Meme.png)
+<img src="img/Example Hateful Meme.png" style="zoom:%;" />
 
 **Characteristics for the method**
 
